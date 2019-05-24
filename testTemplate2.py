@@ -13,12 +13,12 @@ import unittest
 class Test(unittest.TestCase):
     @unittest.skip('暂时跳过用例fun1的测试')
     def test_fun1(self):
-        print('todo')
+        print('out')
         # TODO add something
 
     # @unittest.skip('暂时跳过用例fun2的测试')
     def test_fun2(self):
-        print('todo')
+        print('out')
         # TODO add something
 
 
