@@ -2,32 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb56718d-67f2-497f-bc80-9045c7d7e99a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/studyPython.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_basePy/test_map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_lxml/test_json_special.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pandas/test_drop_duplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pandas/test_pd_map.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testLxml/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_lxml/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testLxml/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test_lxml/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testLxml/test_etree.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_lxml/test_etree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testPandas/1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/test_pandas/1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testPandas/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_pandas/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testPandas/onlytest.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_pandas/onlytest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testPandas/test_period.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_pandas/test_period.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testPandas/test_period_range.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_pandas/test_period_range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testPandas/test_rank.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_pandas/test_rank.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testPandas/test_read_html.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_pandas/test_read_html.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testPandas/test_to_sql_csv_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_pandas/test_to_sql_csv_json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testRe/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_re/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testRe/test_re_sub.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_re/test_re_sub.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testTemplate.py" beforeDir="false" afterPath="$PROJECT_DIR$/testTemplate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testTemplate2.py" beforeDir="false" afterPath="$PROJECT_DIR$/testTemplate2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_basePy/test_list_slice.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_basePy/test_list_slice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBase/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBase/base/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBase/base/base.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBase/class/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBase/class/class_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBase/class/class_magic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBase/pythonMap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_basePy/tesT_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest_textbook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,35 +23,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_basePy/tesT_class.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1230">
+              <caret line="82" selection-start-line="8" selection-end-line="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonBase/class/class_base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonBase/class/class_magic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonBase/base.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonBase/base/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="15" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonBase/base/base.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="180">
+                <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonBase/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_pandas/test_drop_duplicates.py">
+        <entry file="file://$PROJECT_DIR$/unittest_textbook.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
-              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
-              <folding>
-                <element signature="e#201#216#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_pandas/test_pd_map.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
-              <folding>
-                <element signature="e#193#208#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testTemplate2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+            <state relative-caret-position="374">
+              <caret line="71" column="29" lean-forward="true" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -90,19 +114,31 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test_pandas/test_drop_duplicates.py" />
         <option value="$PROJECT_DIR$/testTemplate2.py" />
         <option value="$PROJECT_DIR$/testTemplate.py" />
         <option value="$PROJECT_DIR$/test_basePy/test_map.py" />
         <option value="$PROJECT_DIR$/test_pandas/test_pd_map.py" />
         <option value="$PROJECT_DIR$/test_basePy/test_list_slice.py" />
         <option value="$PROJECT_DIR$/test_lxml/test_json_special.py" />
+        <option value="$PROJECT_DIR$/test_pandas/test_drop_duplicates.py" />
+        <option value="$PROJECT_DIR$/test_basePy/test_class.py" />
+        <option value="$PROJECT_DIR$/test_basePy/ss.py" />
+        <option value="$PROJECT_DIR$/unittest_textbook.py" />
+        <option value="$PROJECT_DIR$/test_basePy/tesT_class.py" />
+        <option value="$PROJECT_DIR$/pythonBase/class_magic.py" />
+        <option value="$PROJECT_DIR$/pythonBase/class/class_base.py" />
+        <option value="$PROJECT_DIR$/pythonBase/__init__.py" />
+        <option value="$PROJECT_DIR$/pythonBase/class/class_magic.py" />
+        <option value="$PROJECT_DIR$/pythonBase/base.py" />
+        <option value="$PROJECT_DIR$/pythonBase/base/__init__.py" />
+        <option value="$PROJECT_DIR$/markdown.md" />
+        <option value="$PROJECT_DIR$/pythonBase/base/base.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="45" />
-    <option name="y" value="184" />
+    <option name="x" value="604" />
+    <option name="y" value="23" />
     <option name="width" value="1308" />
     <option name="height" value="828" />
   </component>
@@ -114,7 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,15 +157,11 @@
               <item name="studyPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="studyPython" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="studyPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyPython" type="462c0819:PsiDirectoryNode" />
-              <item name="test_lxml" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,6 +171,12 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pythonBase" />
+      <recent name="$PROJECT_DIR$/pythonBase/class" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -153,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest">
+  <component name="RunManager" selected="Python.class_magic">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="studyPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,6 +205,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="class_magic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="studyPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBase/class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBase/class/class_magic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,34 +257,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_map.Test.test_map_None" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="ss" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="studyPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_basePy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_map.Test.test_map_None&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_basePy/ss.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_pd_map.Test.test_map2" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="tesT_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="studyPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_pandas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_basePy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_pd_map.Test.test_map2&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_basePy/tesT_class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="Unittests in bin" type="tests" factoryName="Unittests" nameIsGenerated="true">
@@ -244,7 +317,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_list_slice.Test.test_slice" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in tesT_class.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="studyPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -256,27 +329,11 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_list_slice.Test.test_slice&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_json_special.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="studyPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_lxml" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_lxml/test_json_special.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_basePy/tesT_class.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_pd_map.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_drop_duplicates.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="studyPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -288,7 +345,7 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_pandas/test_pd_map.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_pandas/test_drop_duplicates.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -310,21 +367,21 @@
     </configuration>
     <list>
       <item itemvalue="Python.python" />
+      <item itemvalue="Python.ss" />
+      <item itemvalue="Python.tesT_class" />
+      <item itemvalue="Python.class_magic" />
       <item itemvalue="Python tests.pytest" />
       <item itemvalue="Python tests.Unittests in bin" />
-      <item itemvalue="Python tests.Unittests for test_map.Test.test_map_None" />
-      <item itemvalue="Python tests.Unittests for test_pd_map.Test.test_map2" />
-      <item itemvalue="Python tests.pytest in test_pd_map.py" />
-      <item itemvalue="Python tests.pytest for test_list_slice.Test.test_slice" />
-      <item itemvalue="Python tests.pytest in test_json_special.py" />
+      <item itemvalue="Python tests.pytest in test_drop_duplicates.py" />
+      <item itemvalue="Python tests.pytest in tesT_class.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in test_json_special.py" />
-        <item itemvalue="Python tests.pytest for test_list_slice.Test.test_slice" />
-        <item itemvalue="Python tests.Unittests for test_pd_map.Test.test_map2" />
-        <item itemvalue="Python tests.pytest in test_pd_map.py" />
-        <item itemvalue="Python tests.Unittests for test_map.Test.test_map_None" />
+        <item itemvalue="Python.class_magic" />
+        <item itemvalue="Python.tesT_class" />
+        <item itemvalue="Python.ss" />
+        <item itemvalue="Python tests.pytest in tesT_class.py" />
+        <item itemvalue="Python tests.pytest in test_drop_duplicates.py" />
       </list>
     </recent_temporary>
   </component>
@@ -342,54 +399,61 @@
       <workItem from="1558660832852" duration="7085000" />
       <workItem from="1558681207680" duration="2604000" />
       <workItem from="1558683873698" duration="3533000" />
-      <workItem from="1558694455785" duration="623000" />
+      <workItem from="1558694455785" duration="1314000" />
+      <workItem from="1558747312891" duration="8950000" />
+      <workItem from="1558766734328" duration="268000" />
+      <workItem from="1558767791157" duration="1644000" />
+      <workItem from="1558780344200" duration="616000" />
+      <workItem from="1558783646014" duration="574000" />
+      <workItem from="1558785974136" duration="649000" />
+      <workItem from="1558793351725" duration="991000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_test_pd_map_py - 2019.05.24 at 15h 41m 22s.xml">
-      <configuration name="pytest in test_pd_map.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_pd_map_py - 2019.05.24 at 15h 41m 45s.xml">
-      <configuration name="pytest in test_pd_map.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_pd_map_Test_test_map2 - 2019.05.24 at 15h 42m 08s.xml">
-      <configuration name="Unittests for test_pd_map.Test.test_map2" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_list_slice_Test_test_slice - 2019.05.24 at 16h 09m 30s.xml">
-      <configuration name="pytest for test_list_slice.Test.test_slice" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_list_slice_Test_test_slice - 2019.05.24 at 16h 09m 42s.xml">
-      <configuration name="pytest for test_list_slice.Test.test_slice" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_json_special_py - 2019.05.24 at 16h 36m 34s.xml">
-      <configuration name="pytest in test_json_special.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_json_special_py - 2019.05.24 at 16h 36m 52s.xml">
-      <configuration name="pytest in test_json_special.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest - 2019.05.24 at 16h 38m 15s.xml">
-      <configuration name="pytest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_json_special_py - 2019.05.24 at 16h 38m 26s.xml">
-      <configuration name="pytest in test_json_special.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest - 2019.05.24 at 16h 38m 41s.xml">
       <configuration name="pytest" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_for_test_drop_duplicates_Test_test_fun2 - 2019.05.25 at 09h 53m 51s.xml">
+      <configuration name="pytest for test_drop_duplicates.Test.test_fun2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_drop_duplicates_Test_test_drop_duplicates - 2019.05.25 at 09h 53m 58s.xml">
+      <configuration name="pytest for test_drop_duplicates.Test.test_drop_duplicates" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_drop_duplicates_py - 2019.05.25 at 09h 54m 04s.xml">
+      <configuration name="pytest in test_drop_duplicates.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_drop_duplicates_py - 2019.05.25 at 09h 56m 26s.xml">
+      <configuration name="pytest in test_drop_duplicates.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_drop_duplicates_Test_test_fun2 - 2019.05.25 at 09h 57m 32s.xml">
+      <configuration name="pytest for test_drop_duplicates.Test.test_fun2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_drop_duplicates_py - 2019.05.25 at 09h 58m 17s.xml">
+      <configuration name="pytest in test_drop_duplicates.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_drop_duplicates_py - 2019.05.25 at 11h 33m 06s.xml">
+      <configuration name="pytest in test_drop_duplicates.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_class_py - 2019.05.25 at 11h 33m 12s.xml">
+      <configuration name="pytest in test_class.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_class_py - 2019.05.25 at 11h 33m 26s.xml">
+      <configuration name="pytest in test_class.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15053000" />
+    <option name="totallyTimeSpent" value="29436000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="45" y="184" width="1308" height="828" extended-state="0" />
+    <frame x="604" y="23" width="1308" height="828" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19273302" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49456522" visible="true" weight="0.178515" />
+      <window_info id="Structure" order="1" sideWeight="0.5054348" side_tool="true" weight="0.2022117" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4728261" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32880434" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20244566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -399,7 +463,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32880434" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32880434" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.4048913" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32880434" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -416,14 +480,16 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/studyPython$pytest_for_test_list_slice_Test_test_slice.coverage" NAME="pytest for test_list_slice.Test.test_slice Coverage Results" MODIFIED="1558685381757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_basePy" />
-    <SUITE FILE_PATH="coverage/studyPython$pytest_in_test_drop_duplicates_py.coverage" NAME="pytest in test_drop_duplicates.py Coverage Results" MODIFIED="1558612862815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pandas" />
+    <SUITE FILE_PATH="coverage/studyPython$pytest_in_test_class_py.coverage" NAME="pytest in test_class.py Coverage Results" MODIFIED="1558755205658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_basePy" />
     <SUITE FILE_PATH="coverage/studyPython$Unittests_for_test_map_Test_test_fun1.coverage" NAME="Unittests for test_map.Test.test_fun1 Coverage Results" MODIFIED="1558682563250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_basePy" />
+    <SUITE FILE_PATH="coverage/studyPython$pytest_in_test_drop_duplicates_py.coverage" NAME="pytest in test_drop_duplicates.py Coverage Results" MODIFIED="1558755184406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pandas" />
     <SUITE FILE_PATH="coverage/studyPython$Unittests_for_test_map_Test_test_map1.coverage" NAME="Unittests for test_map.Test.test_map1 Coverage Results" MODIFIED="1558682315054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_basePy" />
+    <SUITE FILE_PATH="coverage/studyPython$pytest_for_test_drop_duplicates_Test_test_fun2.coverage" NAME="pytest for test_drop_duplicates.Test.test_fun2 Coverage Results" MODIFIED="1558749446183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pandas" />
     <SUITE FILE_PATH="coverage/studyPython$Unittests_for_test_map_Test_test_map3.coverage" NAME="Unittests for test_map.Test.test_map3 Coverage Results" MODIFIED="1558682680917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_basePy" />
     <SUITE FILE_PATH="coverage/studyPython$pytest_for_test_pd_map_Test_test_map1.coverage" NAME="pytest for test_pd_map.Test.test_map1 Coverage Results" MODIFIED="1558680056406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pandas" />
     <SUITE FILE_PATH="coverage/studyPython$Unittests_in_bin.coverage" NAME="Unittests in bin Coverage Results" MODIFIED="1558680270868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/studyPython$pytest_for_test_drop_duplicates_Test_test_drop_duplicates.coverage" NAME="pytest for test_drop_duplicates.Test.test_drop_duplicates Coverage Results" MODIFIED="1558612947544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pandas" />
     <SUITE FILE_PATH="coverage/studyPython$Unittests_for_test_map_Test_test_map_None.coverage" NAME="Unittests for test_map.Test.test_map_None Coverage Results" MODIFIED="1558683067531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_basePy" />
+    <SUITE FILE_PATH="coverage/studyPython$pytest_for_test_drop_duplicates_Test_test_drop_duplicates.coverage" NAME="pytest for test_drop_duplicates.Test.test_drop_duplicates Coverage Results" MODIFIED="1558749237029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pandas" />
     <SUITE FILE_PATH="coverage/studyPython$Unittests_for_test_map_Test_test_map2.coverage" NAME="Unittests for test_map.Test.test_map2 Coverage Results" MODIFIED="1558682372013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_basePy" />
     <SUITE FILE_PATH="coverage/studyPython$pytest_for_test_pd_map_Test_test_map2.coverage" NAME="pytest for test_pd_map.Test.test_map2 Coverage Results" MODIFIED="1558678522698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pandas" />
     <SUITE FILE_PATH="coverage/studyPython$Unittests_for_test_map_Test_test_map_spu.coverage" NAME="Unittests for test_map.Test.test_map_spu Coverage Results" MODIFIED="1558682744664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_basePy" />
@@ -451,10 +517,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_pandas/1.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/test_basePy/test_enumerate.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -489,13 +555,6 @@
     <entry file="file://$PROJECT_DIR$/test_basePy/test_zip.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_lxml/test_json_special.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="90" selection-start-line="14" selection-start-column="90" selection-end-line="14" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testTemplate2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -505,21 +564,100 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_pandas/test_pd_map.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
+        <state relative-caret-position="659">
+          <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
           <folding>
             <element signature="e#193#208#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test_lxml/test_json_special.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_pandas/onlytest.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/test_pandas/test_drop_duplicates.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        <state relative-caret-position="283">
+          <caret line="41" column="30" lean-forward="true" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
           <folding>
             <element signature="e#201#216#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_basePy/ss.py" />
+    <entry file="file://$PROJECT_DIR$/markdown.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="491">
+            <caret line="67" column="3" lean-forward="true" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_basePy/tesT_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" selection-start-line="8" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/class/class_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/class/class_magic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/base/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/base/base.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/base.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/pythonMap.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest_textbook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="71" column="29" lean-forward="true" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
         </state>
       </provider>
     </entry>
