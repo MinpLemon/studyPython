@@ -29,6 +29,7 @@ defusedxml==0.6.0
 Django==2.2.1
 dlib==19.17.99
 entrypoints==0.3
+et-xmlfile==1.0.1
 execnet==1.6.0
 face-recognition==1.2.3
 face-recognition-models==0.3.0
@@ -56,6 +57,7 @@ ipython-genutils==0.2.0
 ipywidgets==7.4.2
 isort==4.3.19
 itsdangerous==0.24
+jdcal==1.4.1
 jedi==0.13.3
 Jinja2==2.10.1
 jqdatasdk==1.6.5
@@ -87,8 +89,10 @@ mysql-connector==2.2.9
 nbconvert==5.5.0
 nbformat==4.4.0
 notebook==5.7.8
+numexpr==2.6.9
 numpy==1.16.3
 oauthlib==2.1.0
+openpyxl==2.6.2
 pandas==0.24.2
 pandasql==0.7.3
 pandocfilters==1.4.2
