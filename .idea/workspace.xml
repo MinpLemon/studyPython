@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb56718d-67f2-497f-bc80-9045c7d7e99a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pip操作手册/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pip操作手册/pip基本操作命令.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pip操作手册/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBase/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBase/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/markdown.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,17 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pythonBase/base.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -72,11 +59,12 @@
         <option value="$PROJECT_DIR$/pip操作手册/pip基本操作命令.md" />
         <option value="$PROJECT_DIR$/pip操作手册/readme.md" />
         <option value="$PROJECT_DIR$/pythonBase/base.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="555" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="132" />
     <option name="y" value="23" />
     <option name="width" value="1308" />
     <option name="height" value="828" />
@@ -95,11 +83,6 @@
             <path>
               <item name="studyPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="studyPython" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyPython" type="462c0819:PsiDirectoryNode" />
-              <item name="pip操作手册" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -161,6 +144,9 @@
       <module name="studyPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBase" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -317,10 +303,10 @@
       <item itemvalue="Python.ss" />
       <item itemvalue="Python.tesT_class" />
       <item itemvalue="Python.class_magic" />
+      <item itemvalue="Python.base" />
       <item itemvalue="Python tests.pytest" />
       <item itemvalue="Python tests.Unittests in bin" />
       <item itemvalue="Python tests.pytest in tesT_class.py" />
-      <item itemvalue="Python.base" />
     </list>
     <recent_temporary>
       <list>
@@ -393,9 +379,9 @@
     <option name="totallyTimeSpent" value="34182000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="252" y="23" width="1308" height="828" extended-state="0" />
+    <frame x="132" y="23" width="1308" height="828" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49456522" visible="true" weight="0.178515" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49456522" visible="true" weight="0.18088467" />
       <window_info id="Structure" order="1" sideWeight="0.5054348" side_tool="true" weight="0.2022117" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -408,9 +394,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5007899" side_tool="true" visible="true" weight="0.3464674" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50157976" side_tool="true" weight="0.3464674" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.24184783" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49921012" visible="true" weight="0.3464674" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.4984202" visible="true" weight="0.3464674" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32880434" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -457,10 +443,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_pandas/1.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/test_basePy/test_enumerate.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -591,26 +577,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pip基本使用.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="3" selection-end-column="30" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pip操作手册/pip--upgrade批量更新python库.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pip基本使用.md" />
+    <entry file="file://$PROJECT_DIR$/pip操作手册/pip--upgrade批量更新python库.md" />
     <entry file="file://$PROJECT_DIR$/pip操作手册/pip基本操作命令.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -660,10 +628,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3686" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pythonBase/base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
