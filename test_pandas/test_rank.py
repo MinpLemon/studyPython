@@ -8,7 +8,7 @@
 # @Software: PyCharm
 
 import unittest
-import pandas as pd
+import pandasSt as pd
 import numpy as np
 
 """

@@ -8,7 +8,7 @@
 # @Software: PyCharm
 
 """
-pandas.read_html(io, match='.+', flavor=None, header=None, index_col=None,
+pandasSt.read_html(io, match='.+', flavor=None, header=None, index_col=None,
 skiprows=None, attrs=None, parse_dates=False, tupleize_cols=None, thousands=',
 ', encoding=None, decimal='.', converters=None, na_values=None, keep_default_na=True, displayed_only=True)
 
@@ -26,7 +26,7 @@ parse_dates：解析日期
 
 import unittest
 # from HtmlTestRunner import HTMLTestRunner
-import pandas as pd
+import pandasSt as pd
 
 class Test(unittest.TestCase):
 

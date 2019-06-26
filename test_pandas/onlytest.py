@@ -7,7 +7,7 @@
 # @File    : onlytest.py
 # @Software: PyCharm
 
-import pandas as pd
+import pandasSt as pd
 import csv
 
 for i in range(1,178):  # 爬取全部177页数据
