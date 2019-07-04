@@ -32,3 +32,18 @@
 %% %号本身
 
 """
+
+import time
+import datetime
+
+code = '600570'
+time = time.strftime('%Y%m%d', time.localtime(time.time()))  # 20190522
+today = datetime.datetime.today().date()  # 2019-05-22
+today1 = datetime.datetime.today()  # 2019-07-04 18:02:15.645Z
+ktype = 'D'
+
+
+
+ss = '5min'
+print(ss.upper())
+print(today1)
